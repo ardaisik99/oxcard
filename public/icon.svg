@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#bg)"/>
+  <!-- Back soft card -->
+  <rect x="34" y="24" width="66" height="74" rx="14" transform="rotate(8 67 61)" fill="#93C5FD" fill-opacity="0.45"/>
+  <!-- Front crisp white card -->
+  <rect x="26" y="28" width="66" height="76" rx="14" fill="#FFFFFF"/>
+  <!-- Minimal blue book/spark lines inside card -->
+  <rect x="38" y="46" width="24" height="7" rx="3.5" fill="#2563EB"/>
+  <rect x="38" y="60" width="42" height="6" rx="3" fill="#BFDBFE"/>
+  <rect x="38" y="72" width="32" height="6" rx="3" fill="#DBEAFE"/>
+  <circle cx="76" cy="88" r="7" fill="#EFF6FF"/>
+  <path d="M73 88l2.2 2.2 4-4.2" stroke="#2563EB" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

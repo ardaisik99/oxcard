@@ -1,0 +1,19 @@
+{
+  "name": "OxCard — Oxford 3000 Kelime Kartları",
+  "short_name": "OxCard",
+  "description": "Oxford 3000 en çok kullanılan İngilizce kelimeleri günlük kartlarla öğren.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7FAFF",
+  "theme_color": "#2563EB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
